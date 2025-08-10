@@ -1,0 +1,2 @@
+# thienfus
+script config marmot
